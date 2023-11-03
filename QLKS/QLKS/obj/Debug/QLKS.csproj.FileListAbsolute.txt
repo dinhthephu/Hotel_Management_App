@@ -1,0 +1,1657 @@
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\stdole.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Images.v19.2.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.QuanLyKS.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDon.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDonDichVu.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.PhieuThuePhong.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucCSVC.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.ucDatPhong.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_DichVu.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_KHACH_HANG.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiDV.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiPhong.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_NHANVIEN.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_Phong.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDoanhThu.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucSDDV.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThanhToan.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThuePhong.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe.licenses
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucGiaoDich.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucTrangChu.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuong.resources
+F:\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuongNV.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\stdole.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.QuanLyKS.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDon.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDonDichVu.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.PhieuThuePhong.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucCSVC.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.ucDatPhong.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_DichVu.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_KHACH_HANG.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiDV.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiPhong.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_NHANVIEN.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_Phong.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDoanhThu.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucGiaoDich.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuong.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuongNV.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucSDDV.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThanhToan.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThuePhong.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucTrangChu.resources
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe.licenses
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\Năm 2\C#\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\stdole.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Images.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.QuanLyKS.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDon.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDonDichVu.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.PhieuThuePhong.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucCSVC.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.ucDatPhong.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_DichVu.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_KHACH_HANG.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiDV.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiPhong.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_NHANVIEN.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_Phong.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDoanhThu.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucGiaoDich.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuong.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuongNV.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucSDDV.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThanhToan.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThuePhong.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucTrangChu.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.UserControl1.resources
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe.licenses
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.CodeParser.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+I:\Download\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.xsd.XtraReport1.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.QuanLyKS.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDon.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDonDichVu.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.PhieuThuePhong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucCSVC.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.ucDatPhong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_DichVu.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_KHACH_HANG.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiDV.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiPhong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_NHANVIEN.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_Phong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDoanhThu.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucGiaoDich.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuongNV.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucSDDV.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThanhToan.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThuePhong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucTrangChu.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.UserControl1.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.xsd.XtraReport1.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe.licenses
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP\ERP - QLKS\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.QuanLyKS.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDon.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDonDichVu.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.PhieuThuePhong.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucCSVC.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.ucDatPhong.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_DichVu.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_KHACH_HANG.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiDV.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiPhong.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_NHANVIEN.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_Phong.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDoanhThu.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucGiaoDich.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuong.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuongNV.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucSDDV.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThanhToan.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThuePhong.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucTrangChu.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.UserControl1.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.xsd.XtraReport1.resources
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe.licenses
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\stdole.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Laptop\Desktop\KIEN\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\stdole.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.QuanLyKS.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDon.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDonDichVu.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.PhieuThuePhong.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucCSVC.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.ucDatPhong.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_DichVu.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_KHACH_HANG.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiDV.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiPhong.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_NHANVIEN.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_Phong.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDoanhThu.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucGiaoDich.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuong.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuongNV.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucSDDV.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThanhToan.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThuePhong.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucTrangChu.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.UserControl1.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.xsd.XtraReport1.resources
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe.licenses
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Laptop\Desktop\QL_KhachSan\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\stdole.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.QuanLyKS.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDon.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDonDichVu.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.Report.PhieuThuePhong.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucCSVC.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.ucDatPhong.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_DichVu.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_KHACH_HANG.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiDV.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiPhong.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_NHANVIEN.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_Phong.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDoanhThu.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucGiaoDich.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuong.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuongNV.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucSDDV.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThanhToan.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThuePhong.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucTrangChu.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.UserControl1.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.xsd.XtraReport1.resources
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.exe.licenses
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Laptop\Desktop\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\stdole.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.QuanLyKS.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDon.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDonDichVu.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.Report.PhieuThuePhong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucCSVC.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.ucDatPhong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_DichVu.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_KHACH_HANG.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiDV.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiPhong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_NHANVIEN.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_Phong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDoanhThu.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucGiaoDich.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuongNV.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucSDDV.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThanhToan.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThuePhong.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.ucTrangChu.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.userControl.UserControl1.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.xsd.XtraReport1.resources
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.exe.licenses
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\Kì 1 Năm 4\Môn hoạch định doanh nghiệp _ ERP\ERP_K70\ERP_Tổng hợp-csdl\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.DangNhap.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.QuanLyKS.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDon.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.HoaDonDichVu.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.Report.PhieuThuePhong.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucCSVC.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.ucDatPhong.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_DichVu.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_KHACH_HANG.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiDV.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_LoaiPhong.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_NHANVIEN.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDM_Phong.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucDoanhThu.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucGiaoDich.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuong.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucLuongNV.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucSDDV.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThanhToan.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucThuePhong.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.ucTrangChu.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.userControl.UserControl1.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.xsd.XtraReport1.resources
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe.licenses
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\QLKS\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Images.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\stdole.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Data.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
